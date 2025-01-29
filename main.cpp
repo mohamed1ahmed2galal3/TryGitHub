@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int Mul(int i, int j)
