@@ -22,9 +22,17 @@ public:
     }
 };
 
+class print{
+public:
+    print()
+    {
+         cout<<"My name Is Mohamed \n";
+    }
+
+};
 int main()
 {
-
+    print p;
     student s1;
     s1.setid(111);
     s1.setname("Mohamed");
