@@ -10,4 +10,5 @@ int main()
 {
 cout<<Mul(2,5)<<endl;
 cout<<Mul(2,6)<<endl;
+cout<<"Hello World"<<endl;
 }
